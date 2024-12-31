@@ -1,0 +1,13 @@
+{
+  "name": "wide-containers-assets",
+  "version": "0.2.7",
+  "title": "Wide Containers Assets",
+  "author": "Lebothegizebo",
+  "description": "Required for Wide Containers to function. Provides assets for other mods. The mod version will always match Wide Containers.",
+  "dependencies": 
+  [
+    "base >= 2.0",
+    "? space-age >= 2.0"
+  ],
+  "factorio_version": "2.0"
+}
