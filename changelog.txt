@@ -1,7 +1,10 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.10
 Date: ????
-  Changes:
+  Graphics:
+    - Added graphics for Tall logistics chests.
+    - Added Shadows for Tall logistics chests.
+    - Added Shadows for Wide logistics chests.
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.9
 Date: 2025-01-08
